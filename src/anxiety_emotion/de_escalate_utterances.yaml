@@ -1,0 +1,16 @@
+route_name: de_escalate
+
+utterances:
+- "Ok lets switch topics"
+- "Sorry for bringing it up, lets move on"
+- "Sorry for being nosy, I was just curious!"
+- "Sorry, let’s change the subject for now."
+- "Never mind, let’s move on to something else."
+- "Forget I asked, can we talk about something else?"
+- "I didn’t mean to dwell on that. Let’s discuss something else."
+- "Okay, that’s enough about that. Let’s switch topics."
+- "Sorry, I didn’t mean to get off track. Can we focus on something else?"
+- "Let’s drop that for now and talk about something else."
+- "I don’t want to get too deep into that. Let’s talk about something different."
+- "Let’s move away from that topic. Can we discuss my policy options instead?"
+- "Sorry about that. Can we switch gears and talk about something else?"
